@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '39270'
     url: http://www.gutenberg.org/2009/agents/39270
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38157#Moderne-Probleme-der-Physik
 gutenberg_bookshelf:
 - DE Sachbuch
 - Physics
